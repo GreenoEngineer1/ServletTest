@@ -11,6 +11,8 @@ public class AlphabetOrder {
 	
     public static void main(String[] args) {
     	
+    	System.out.println();
+    	
     	int a = 0,        
     			b = 9;       			
     	System.out.println(s);
